@@ -20,25 +20,25 @@ Project consists of a simple linear regression model training to determine the b
 Importing Libraries : <br/>
 <img src="https://i.imgur.com/IfAIvpo.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Data Evaluation : <br/>
-<img src="https://i.imgur.com/SKlHD4t.png"80%" alt="Disk Sanitization Steps"/>
-<br />
-Data Cleaning : <br/>
-<img src="https://i.imgur.com/vzaCa4n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Heatmap Graphic Information : <br/>
-<img src="https://i.imgur.com/jBmmNOs.png"80%" alt="Disk Sanitization Steps"/>
-<br />
- Displot Graphic Information : <br/>
-<img src="https://i.imgur.com/bnozo0h.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Model Variable Creation : <br/>
+Data Evaluation and Cleaning : <br/>
 <img src="https://i.imgur.com/IuS9PbE.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- Choosing Model Suitable for Binary Classification : <br/>
+countplot Graphic Information: <br/>
+<img src="https://i.imgur.com/vzaCa4n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Graphic  : <br/>
+<img src="https://i.imgur.com/jBmmNOs.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ CLeaning and Mean : <br/>
+<img src="https://i.imgur.com/bnozo0h.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Heatmap Graphic Information : <br/>
+<img src="https://i.imgur.com/SKlHD4t.png"80%" alt="Disk Sanitization Steps"/>
+<br />
+ Heatmap Graphic Information : <br/>
 <img src="https://i.imgur.com/sXUWPU5.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- Choosing Model Suitable for Binary Classification : <br/>
+ <br/>
 <img src="https://i.imgur.com/fbOzT4l.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Initiating and Training : <br/>
@@ -50,7 +50,7 @@ Model Variable Creation : <br/>
 Predictions : <br/>
 <img src="https://i.imgur.com/wg6xIC9.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- Displot Graphic Information: <br/>
+ Predictions: <br/>
 <img src="https://i.imgur.com/pX5uQns.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Model Evauation : <br/>
