@@ -18,22 +18,22 @@ Project consists of a simple linear regression model training to determine the b
 
 <p align="center">
 Importing Libraries : <br/>
-<img src="https://i.imgur.com/O0jNp2P.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IfAIvpo.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Data Evaluation : <br/>
-<img src="https://i.imgur.com/Aax7p3v.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SKlHD4t.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 Data Cleaning : <br/>
-<img src="https://i.imgur.com/2wJGP7v.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vzaCa4n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Heatmap Graphic Information : <br/>
-<img src="https://i.imgur.com/ZMzC8V8.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jBmmNOs.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Displot Graphic Information : <br/>
-<img src="https://i.imgur.com/uVkNp7a.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bnozo0h.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Model Variable Creation : <br/>
-<img src="https://i.imgur.com/1dJoqLE.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IuS9PbE.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Choosing Model Suitable for Binary Classification : <br/>
 <img src="https://i.imgur.com/sXUWPU5.png"80%" alt="Disk Sanitization Steps"/>
