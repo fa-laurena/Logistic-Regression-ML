@@ -32,6 +32,8 @@ Graphic  : <br/>
  CLeaning and Mean : <br/>
 <img src="https://i.imgur.com/m8IroEs.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+ <img src="https://i.imgur.com/fbOzT4l.png"80%" alt="Disk Sanitization Steps"/>
+<br />
 Heatmap Graphic Information : <br/>
 <img src="https://i.imgur.com/SKlHD4t.png"80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -39,8 +41,6 @@ Heatmap Graphic Information : <br/>
 <img src="https://i.imgur.com/sXUWPU5.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  <br/>
-<img src="https://i.imgur.com/fbOzT4l.png"80%" alt="Disk Sanitization Steps"/>
-<br />
  Initiating and Training : <br/>
 <img src="https://i.imgur.com/Bb2U4UN.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
