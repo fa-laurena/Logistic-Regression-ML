@@ -59,11 +59,14 @@ Model Evauation : <br/>
 
  <h2>Summary</h2>
 Interpretation of the Model's Performance(Logistic Regression) -GREAT-
+
 The model is fairly accurate (81%), meaning it correctly predicts survival in most cases.
 It correctly identifies non-survivors (TN = 146) but still misses 21 actual survivors (FN).
-When it predicts "survivor," it is correct 70% of the time (precision for class 1).
+When it predicts "survivor", it is correct 70% of the time (precision for class 1).
 The model could be improved by reducing false negatives (FN) to better detect survivors.
 Optimisation possible with advanced modelssuch as Random Forest, XGBoost, or an ensemble of models for better performance.
+Type 0 = Non-Survivors
+Type 1 = Survivors
 <br />
 
 <!--
