@@ -1,20 +1,20 @@
 <h1> Titanic - Logistic Regression  </h1>
 
 <h2>Description</h2>
-Project consists of a simple linear regression model training to determine the best Housing area of the USA States to consider real estate, it include area and estimations data important to i train the model correctly.
+The goal of this Dataset prediction is to build a model that can accurately classify new passengers as either 'survivors' or 'non-survivors' based on their attributes.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
-- <b>Jupyter notebook</b>
+- <b>Python Libraries(see first photo ref)</b> 
+- <b>Titanic Dataset</b>
 
-<h2>Environments Used </h2>
+<h2>Platform </h2>
 
 - <b>Jupiter notebook</b> (21H2)
 
-<h2>USA Housing project walk-through(See files attached):</h2>
+<h2>Titanic project walk-through(See files attached):</h2>
 
 <p align="center">
 Importing Libraries : <br/>
@@ -58,7 +58,12 @@ Model Evauation : <br/>
 <br />
 
  <h2>Summary</h2>
-we can determine from the trainned models ...
+Interpretation of the Model's Performance(Logistic Regression) -GREAT-
+The model is fairly accurate (81%), meaning it correctly predicts survival in most cases.
+It correctly identifies non-survivors (TN = 146) but still misses 21 actual survivors (FN).
+When it predicts "survivor," it is correct 70% of the time (precision for class 1).
+The model could be improved by reducing false negatives (FN) to better detect survivors.
+Optimisation possible with advanced modelssuch as Random Forest, XGBoost, or an ensemble of models for better performance.
 <br />
 
 <!--
