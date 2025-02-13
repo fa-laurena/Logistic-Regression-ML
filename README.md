@@ -1,7 +1,7 @@
 <h1> Titanic - Logistic Regression  </h1>
 
 <h2>Description</h2>
-The goal of this Dataset prediction is to build a model that can accurately classify new passengers as either 'survivors' or 'non-survivors' based on their attributes.
+The goal of this Dataset prediction, from Titanic, is to build a model that can accurately classify new passengers as either 'survivors' or 'non-survivors' based on their attributes.
 <br />
 
 
