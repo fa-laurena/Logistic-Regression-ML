@@ -18,43 +18,44 @@ The goal of this Dataset prediction, from Titanic, is to build a model that can 
 
 <p align="center">
 Importing Libraries : <br/>
-<img src="https://i.imgur.com/IfAIvpo.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Libraries.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Data Evaluation and Cleaning : <br/>
-<img src="https://i.imgur.com/IuS9PbE.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Data%20Evaluation%20and%20cleaning.png"80%" alt="Disk Sanitization Steps"/>
 <br />
-countplot Graphic Information: <br/>
-<img src="https://i.imgur.com/vzaCa4n.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+countplot -Survived- Graphic Information: <br/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Countplot%20Survived.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Graphic  : <br/>
-<img src="https://i.imgur.com/jBmmNOs.png"80%" alt="Disk Sanitization Steps"/>
+Heatmap Graphic  : <br/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Heatmap%20Base.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- CLeaning and Mean : <br/>
-<img src="https://i.imgur.com/m8IroEs.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Heatmap Cleaning Fill Avg : <br/>
+ <img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Avg%20age.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- <img src="https://i.imgur.com/fbOzT4l.png"80%" alt="Disk Sanitization Steps"/>
+Heatmap Cleaning Fill Avg : <br/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Cleaning%20Avg%20age%20fill.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Heatmap Graphic Information : <br/>
-<img src="https://i.imgur.com/SKlHD4t.png"80%" alt="Disk Sanitization Steps"/>
+Heatmap Cleaning Drop Cabin : <br/>
+ <img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Data%20Evaluation%20and%20cleaning%20cabindrop.png"80%" alt="Disk Sanitization Steps"/>
 <br />
- Heatmap Graphic Information : <br/>
-<img src="https://i.imgur.com/sXUWPU5.png"80%" alt="Disk Sanitization Steps"/>
+Heatmap Cleaning Drop Cabin : <br/>
+ <img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Cleaning%20drop.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  <br/>
  Initiating and Training : <br/>
-<img src="https://i.imgur.com/Bb2U4UN.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/initiating%20and%20training.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
- Evaluate the Model's Performance and Iterate  : <br/>
-<img src="https://i.imgur.com/QX85PDN.png"80%" alt="Disk Sanitization Steps"/>
+Model Initiation  : <br/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/model%20selection.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 Predictions : <br/>
-<img src="https://i.imgur.com/wg6xIC9.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Prediction.png"80%" alt="Disk Sanitization Steps"/>
 <br />
  Predictions: <br/>
-<img src="https://i.imgur.com/pX5uQns.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Predictions.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Model Evauation : <br/>
-<img src="https://i.imgur.com/dRCj0cM.png"80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/Logistic-Regression-ML/blob/d5845caef74b4bdeaaf0a3cb1b2f71182f3d7a4a/Model%20evaluation.png"80%" alt="Disk Sanitization Steps"/>
 <br />
 
  <h2>Summary</h2>
